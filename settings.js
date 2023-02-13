@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
-global.ytname = "ʏᴜʀᴇꜱʜ" //ur yt chanel name
-global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or insta name
+global.owner = ['94714382877'] //ur owner number
+global.ownername = "maliya" //ur owner name
+global.ytname = "malin" //ur yt chanel name
+global.socialm = "maliya bot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.ownernomer = "94714382877" //ur number
+global.premium = ['94714382877'] //ur premium number
+global.botname = 'gon botaa' //ur bot name
+global.linkz = "https://chat.whatsapp.com/DVBUVexIVm9AJaGYyjexeE" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.botscript = 'https://github.com/DarkMakerofc/Queen-Elisa-MD' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.packname = "   👸🏻maliya bot" //ur sticker watermark packname
+global.author = "   👸🏻maliya bot👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻maliya bot👸🏻." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -41,17 +41,17 @@ global.sp = ''
 //messages
 global.mess = {
     success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
-    premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*👸🏻💭This feature could be used by owner only*',
-    group: '*👸🏻💭Features Used Only For Groups!*',
-    private: '*👸🏻💭Features Used Only For Private Chat!*',
-    bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
-    endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
-    nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
+    admin: '*👸🏻💭මෙම විශේෂාංගය පරිපාලකයින්ට පමණක් භාවිතා කළ හැකිය!*',
+    botAdmin: '*👸🏻💭Bot මුලින්ම Admin විය යුතුය!*',
+    premime: '*👸🏻💭ඔබට ලියාපදිංචි වීමට අවශ්‍ය නම් වාරික විශේෂ විශේෂාංග කුලියට*',
+    owner: '*👸🏻💭මෙම විශේෂාංගය භාවිතා කළ හැක්කේ හිමිකරුට පමණි*',
+    group: '*👸🏻💭කණ්ඩායම් සඳහා පමණක් භාවිතා කරන විශේෂාංග!*',
+    private: '*👸🏻💭පුද්ගලික කතාබස් සඳහා පමණක් භාවිතා කරන විශේෂාංග!*',
+    bot: '*👸🏻💭මෙම විශේෂාංගය භාවිතා කළ හැක්කේ bot හට පමණි*',
+    wait: '*👸🏻💭ඉදපන් පගො පොඩ්ඩක්t...*',
+    linkm: '*👸🏻💭කො හුත්තො ලින්ක් එක?*',
+    endLimit: '*👸🏻💭ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ*',
+    nsfw: '*👸🏻💭nsfw විශේෂාංගය සක්‍රිය කර නැත, කරුණාකර සක්‍රිය කිරීමට පරිපාලක අමතන්න(මට කියපන් පගො)*',
 }
 
 //media target
